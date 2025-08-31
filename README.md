@@ -1,2 +1,3 @@
 # ayu
 ayu
+pukimak hang
